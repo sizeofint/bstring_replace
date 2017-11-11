@@ -20,8 +20,6 @@ string change_file_name(string file_name){
 		new_file_name += file_name+"__result";
 	}
 
-	cout << new_file_name << endl;
-
 	return new_file_name;
 }
 
